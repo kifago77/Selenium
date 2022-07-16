@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f404ee5d-ae2b-48cd-888f-7ee5fecedad7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/WebDriverManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SeleniumTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SeleniumTest.class" afterDir="false" />
     </list>
@@ -25,7 +27,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2BwWYI523rVOu8VuvqoehF1f6WT" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -87,11 +91,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeleniumTest.sampleTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="WebDriverManager.browser" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="tutorialselenium" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SeleniumTest" />
-      <option name="METHOD_NAME" value="sampleTest" />
+      <option name="MAIN_CLASS_NAME" value="WebDriverManager" />
+      <option name="METHOD_NAME" value="browser" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -102,10 +106,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.SeleniumTest.openBrowser" />
+        <item itemvalue="TestNG.WebDriverManager.browser" />
         <item itemvalue="TestNG.SeleniumTest.openIe" />
         <item itemvalue="TestNG.SeleniumTest.openGoogle" />
         <item itemvalue="TestNG.SeleniumTest.openFirefox" />
-        <item itemvalue="TestNG.SeleniumTest.sampleTest" />
       </list>
     </recent_temporary>
   </component>

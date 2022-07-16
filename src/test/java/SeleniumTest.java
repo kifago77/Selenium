@@ -38,7 +38,10 @@ public class SeleniumTest {
     }
     @Test
     public void openBrowser(){
-        WebDriver driver = getDriver("ie");
+        WebDriver driver = getDriver("chrome");
+        driver.get("https://www.google.pl/");
+        driver.manage().window().maximize();
+        driver.close();
 
     }
 
