@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f404ee5d-ae2b-48cd-888f-7ee5fecedad7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SeleniumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SeleniumTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +38,55 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.SeleniumTest.openBrowser">
+    <configuration name="SeleniumTest.openBrowser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="tutorialselenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumTest" />
+      <option name="METHOD_NAME" value="openBrowser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumTest.openFirefox" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="tutorialselenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumTest" />
+      <option name="METHOD_NAME" value="openFirefox" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumTest.openGoogle" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="tutorialselenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumTest" />
+      <option name="METHOD_NAME" value="openGoogle" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumTest.openIe" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="tutorialselenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumTest" />
+      <option name="METHOD_NAME" value="openIe" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SeleniumTest.sampleTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="tutorialselenium" />
       <option name="PACKAGE_NAME" value="" />
@@ -51,6 +101,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.SeleniumTest.openBrowser" />
+        <item itemvalue="TestNG.SeleniumTest.openIe" />
+        <item itemvalue="TestNG.SeleniumTest.openGoogle" />
+        <item itemvalue="TestNG.SeleniumTest.openFirefox" />
         <item itemvalue="TestNG.SeleniumTest.sampleTest" />
       </list>
     </recent_temporary>
